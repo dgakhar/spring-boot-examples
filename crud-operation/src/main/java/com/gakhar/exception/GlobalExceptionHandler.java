@@ -1,4 +1,4 @@
-package com.gakhar.service.exception;
+package com.gakhar.exception;
 
 import java.net.URI;
 

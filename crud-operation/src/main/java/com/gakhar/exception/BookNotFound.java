@@ -1,4 +1,4 @@
-package com.gakhar.service.exception;
+package com.gakhar.exception;
 
 public class BookNotFound extends RuntimeException {
 

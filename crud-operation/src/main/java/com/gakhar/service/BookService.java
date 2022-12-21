@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import org.springframework.stereotype.Service;
 
 import com.gakhar.dto.Book;
-import com.gakhar.service.exception.BookNotFound;
+import com.gakhar.exception.BookNotFound;
 
 @Service
 public class BookService {
